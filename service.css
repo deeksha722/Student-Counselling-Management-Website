@@ -1,0 +1,42 @@
+ .image3{
+    display: flex;
+    margin-left: 140px;
+    height: 50%;
+    width: 50%;
+    justify-content: end;
+
+ }
+ .box1{
+      margin-left: 50px;
+    margin-top: 3px;
+      height: 30%;
+      width: 140%;
+      
+      padding: 16px;
+    
+ }
+ .box1:hover{
+   transform: translateX(-5px);
+ }
+
+ .icon
+ {
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border: 2px solid black;
+
+    
+ }
+ .end2{
+    justify-content: space-around;
+    padding-top: 26px;
+    padding: 30px;
+    background-color: whitesmoke;
+    height: 30vh;
+    width: 80vw;
+    margin: 10px;
+    margin-left: 90px;
+    border-radius: 40px;
+    border: 5px solid black;
+ }

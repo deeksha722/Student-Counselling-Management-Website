@@ -1,0 +1,36 @@
+.imagee{
+    margin-top: 50px;
+    width: 600px;
+    height: 400px;
+    background: linear-gradient(to left,darkblue 20%,transparent),url("istockphoto-2188211582-612x612.jpg");
+    background-size: cover;
+    border: none;
+    border-radius:20px;
+    margin-right: 0px;
+    
+}
+.input{
+    margin-top: 50px;
+    height: 400px;
+    width: 600px;
+    background: linear-gradient( to left,darkblue,transparent);
+    color: black;
+    border-radius: 20px;
+    padding: 12px;
+    margin-left: 50px;
+    
+}
+.bg{
+    background:linear-gradient(Aliceblue,darkblue);
+     margin-bottom: 200px;
+}
+.end{
+    margin-top: 120px;
+}
+.button{
+    display: flex;
+    justify-content: end;
+}
+.color{
+    color:darkslateblue;
+}
